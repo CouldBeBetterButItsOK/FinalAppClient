@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="WPF_MVVM_SPA_Template.Views.IniciView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WPF_MVVM_SPA_Template.Views"
+             mc:Ignorable="d" >
+    <Grid Margin="10" >
+        <Label Grid.Row="0" Name="Titol" Content="App pocha de gestió de clients" Width="auto" Height="auto" FontSize="30" 
+       HorizontalContentAlignment="Center" VerticalContentAlignment="Center"
+       VerticalAlignment="Center" Style="{DynamicResource ModernLabelStyle}" HorizontalAlignment="Center" Margin="10,28,0,150" />
+        <StackPanel Orientation="Horizontal" Width="auto" Height="auto" HorizontalAlignment="Center" VerticalAlignment="Bottom" >
+            <Button  Content="LIGHT THEME" Command="{Binding LightThemeCommand}" IsEnabled="{Binding IsntLightTheme}" 
+            Padding="10,5" Margin="5" Style="{DynamicResource ModernButtonStyle}" Width="auto" Height="auto"/>
+
+            <Button  Content="DARK THEME" Command="{Binding DarkThemeCommand}" IsEnabled="{Binding IsLightTheme}"
+            Padding="10,5" Margin="5" Style="{DynamicResource ModernButtonStyle}" Width="auto" Height="auto"/>
+        </StackPanel>
+    </Grid>
+</UserControl>

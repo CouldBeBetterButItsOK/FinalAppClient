@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="DNITextBox.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="EmailTextBox.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MiniLenghthTextBox.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PhoneMaskTextBox.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TextBoxSimple.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="DNITextBox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="EmailTextBox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MiniLenghthTextBox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PhoneMaskTextBox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="TextBoxSimple.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

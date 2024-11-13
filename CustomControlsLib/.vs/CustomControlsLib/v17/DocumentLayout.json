@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Deo\\source\\repos\\PAC2XeviSa\u00F1\u00E9BielAymerich\\CustomControlsLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{540DA544-9B63-4EA8-ACE8-A1CAE04F798F}|CustomControlsLib\\CustomControlsLib.csproj|c:\\users\\deo\\source\\repos\\pac2xevisa\u00F1\u00E9bielaymerich\\customcontrolslib\\customcontrolslib\\customcontrolslib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{540DA544-9B63-4EA8-ACE8-A1CAE04F798F}|CustomControlsLib\\CustomControlsLib.csproj|solutionrelative:customcontrolslib\\customcontrolslib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540DA544-9B63-4EA8-ACE8-A1CAE04F798F}|CustomControlsLib\\CustomControlsLib.csproj|c:\\users\\deo\\source\\repos\\pac2xevisa\u00F1\u00E9bielaymerich\\customcontrolslib\\customcontrolslib\\dnitextbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540DA544-9B63-4EA8-ACE8-A1CAE04F798F}|CustomControlsLib\\CustomControlsLib.csproj|solutionrelative:customcontrolslib\\dnitextbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540DA544-9B63-4EA8-ACE8-A1CAE04F798F}|CustomControlsLib\\CustomControlsLib.csproj|c:\\users\\deo\\source\\repos\\pac2xevisa\u00F1\u00E9bielaymerich\\customcontrolslib\\customcontrolslib\\phonemasktextbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540DA544-9B63-4EA8-ACE8-A1CAE04F798F}|CustomControlsLib\\CustomControlsLib.csproj|solutionrelative:customcontrolslib\\phonemasktextbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540DA544-9B63-4EA8-ACE8-A1CAE04F798F}|CustomControlsLib\\CustomControlsLib.csproj|c:\\users\\deo\\source\\repos\\pac2xevisa\u00F1\u00E9bielaymerich\\customcontrolslib\\customcontrolslib\\dnitextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{540DA544-9B63-4EA8-ACE8-A1CAE04F798F}|CustomControlsLib\\CustomControlsLib.csproj|solutionrelative:customcontrolslib\\dnitextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540DA544-9B63-4EA8-ACE8-A1CAE04F798F}|CustomControlsLib\\CustomControlsLib.csproj|c:\\users\\deo\\source\\repos\\pac2xevisa\u00F1\u00E9bielaymerich\\customcontrolslib\\customcontrolslib\\emailtextbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540DA544-9B63-4EA8-ACE8-A1CAE04F798F}|CustomControlsLib\\CustomControlsLib.csproj|solutionrelative:customcontrolslib\\emailtextbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540DA544-9B63-4EA8-ACE8-A1CAE04F798F}|CustomControlsLib\\CustomControlsLib.csproj|c:\\users\\deo\\source\\repos\\pac2xevisa\u00F1\u00E9bielaymerich\\customcontrolslib\\customcontrolslib\\minilenghthtextbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540DA544-9B63-4EA8-ACE8-A1CAE04F798F}|CustomControlsLib\\CustomControlsLib.csproj|solutionrelative:customcontrolslib\\minilenghthtextbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540DA544-9B63-4EA8-ACE8-A1CAE04F798F}|CustomControlsLib\\CustomControlsLib.csproj|c:\\users\\deo\\source\\repos\\pac2xevisa\u00F1\u00E9bielaymerich\\customcontrolslib\\customcontrolslib\\minilenghthtextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{540DA544-9B63-4EA8-ACE8-A1CAE04F798F}|CustomControlsLib\\CustomControlsLib.csproj|solutionrelative:customcontrolslib\\minilenghthtextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540DA544-9B63-4EA8-ACE8-A1CAE04F798F}|CustomControlsLib\\CustomControlsLib.csproj|c:\\users\\deo\\source\\repos\\pac2xevisa\u00F1\u00E9bielaymerich\\customcontrolslib\\customcontrolslib\\phonemasktextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{540DA544-9B63-4EA8-ACE8-A1CAE04F798F}|CustomControlsLib\\CustomControlsLib.csproj|solutionrelative:customcontrolslib\\phonemasktextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540DA544-9B63-4EA8-ACE8-A1CAE04F798F}|CustomControlsLib\\CustomControlsLib.csproj|c:\\users\\deo\\source\\repos\\pac2xevisa\u00F1\u00E9bielaymerich\\customcontrolslib\\customcontrolslib\\textboxsimple.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540DA544-9B63-4EA8-ACE8-A1CAE04F798F}|CustomControlsLib\\CustomControlsLib.csproj|solutionrelative:customcontrolslib\\textboxsimple.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540DA544-9B63-4EA8-ACE8-A1CAE04F798F}|CustomControlsLib\\CustomControlsLib.csproj|c:\\users\\deo\\source\\repos\\pac2xevisa\u00F1\u00E9bielaymerich\\customcontrolslib\\customcontrolslib\\textboxsimple.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{540DA544-9B63-4EA8-ACE8-A1CAE04F798F}|CustomControlsLib\\CustomControlsLib.csproj|solutionrelative:customcontrolslib\\textboxsimple.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomControlsLib",
+              "DocumentMoniker": "C:\\Users\\Deo\\source\\repos\\PAC2XeviSa\u00F1\u00E9BielAymerich\\CustomControlsLib\\CustomControlsLib\\CustomControlsLib.csproj",
+              "RelativeDocumentMoniker": "CustomControlsLib\\CustomControlsLib.csproj",
+              "ToolTip": "C:\\Users\\Deo\\source\\repos\\PAC2XeviSa\u00F1\u00E9BielAymerich\\CustomControlsLib\\CustomControlsLib\\CustomControlsLib.csproj",
+              "RelativeToolTip": "CustomControlsLib\\CustomControlsLib.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-13T20:38:10.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailTextBox.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Deo\\source\\repos\\PAC2XeviSa\u00F1\u00E9BielAymerich\\CustomControlsLib\\CustomControlsLib\\EmailTextBox.xaml.cs",
+              "RelativeDocumentMoniker": "CustomControlsLib\\EmailTextBox.xaml.cs",
+              "ToolTip": "C:\\Users\\Deo\\source\\repos\\PAC2XeviSa\u00F1\u00E9BielAymerich\\CustomControlsLib\\CustomControlsLib\\EmailTextBox.xaml.cs",
+              "RelativeToolTip": "CustomControlsLib\\EmailTextBox.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwEUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:40:32.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DNITextBox.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Deo\\source\\repos\\PAC2XeviSa\u00F1\u00E9BielAymerich\\CustomControlsLib\\CustomControlsLib\\DNITextBox.xaml.cs",
+              "RelativeDocumentMoniker": "CustomControlsLib\\DNITextBox.xaml.cs",
+              "ToolTip": "C:\\Users\\Deo\\source\\repos\\PAC2XeviSa\u00F1\u00E9BielAymerich\\CustomControlsLib\\CustomControlsLib\\DNITextBox.xaml.cs",
+              "RelativeToolTip": "CustomControlsLib\\DNITextBox.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAEkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:40:40.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MiniLenghthTextBox.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Deo\\source\\repos\\PAC2XeviSa\u00F1\u00E9BielAymerich\\CustomControlsLib\\CustomControlsLib\\MiniLenghthTextBox.xaml.cs",
+              "RelativeDocumentMoniker": "CustomControlsLib\\MiniLenghthTextBox.xaml.cs",
+              "ToolTip": "C:\\Users\\Deo\\source\\repos\\PAC2XeviSa\u00F1\u00E9BielAymerich\\CustomControlsLib\\CustomControlsLib\\MiniLenghthTextBox.xaml.cs",
+              "RelativeToolTip": "CustomControlsLib\\MiniLenghthTextBox.xaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwEEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:31:28.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhoneMaskTextBox.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Deo\\source\\repos\\PAC2XeviSa\u00F1\u00E9BielAymerich\\CustomControlsLib\\CustomControlsLib\\PhoneMaskTextBox.xaml.cs",
+              "RelativeDocumentMoniker": "CustomControlsLib\\PhoneMaskTextBox.xaml.cs",
+              "ToolTip": "C:\\Users\\Deo\\source\\repos\\PAC2XeviSa\u00F1\u00E9BielAymerich\\CustomControlsLib\\CustomControlsLib\\PhoneMaskTextBox.xaml.cs",
+              "RelativeToolTip": "CustomControlsLib\\PhoneMaskTextBox.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:40:14.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DNITextBox.xaml",
+              "DocumentMoniker": "C:\\Users\\Deo\\source\\repos\\PAC2XeviSa\u00F1\u00E9BielAymerich\\CustomControlsLib\\CustomControlsLib\\DNITextBox.xaml",
+              "RelativeDocumentMoniker": "CustomControlsLib\\DNITextBox.xaml",
+              "ToolTip": "C:\\Users\\Deo\\source\\repos\\PAC2XeviSa\u00F1\u00E9BielAymerich\\CustomControlsLib\\CustomControlsLib\\DNITextBox.xaml",
+              "RelativeToolTip": "CustomControlsLib\\DNITextBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T12:40:37.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MiniLenghthTextBox.xaml",
+              "DocumentMoniker": "C:\\Users\\Deo\\source\\repos\\PAC2XeviSa\u00F1\u00E9BielAymerich\\CustomControlsLib\\CustomControlsLib\\MiniLenghthTextBox.xaml",
+              "RelativeDocumentMoniker": "CustomControlsLib\\MiniLenghthTextBox.xaml",
+              "ToolTip": "C:\\Users\\Deo\\source\\repos\\PAC2XeviSa\u00F1\u00E9BielAymerich\\CustomControlsLib\\CustomControlsLib\\MiniLenghthTextBox.xaml",
+              "RelativeToolTip": "CustomControlsLib\\MiniLenghthTextBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T12:31:23.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PhoneMaskTextBox.xaml",
+              "DocumentMoniker": "C:\\Users\\Deo\\source\\repos\\PAC2XeviSa\u00F1\u00E9BielAymerich\\CustomControlsLib\\CustomControlsLib\\PhoneMaskTextBox.xaml",
+              "RelativeDocumentMoniker": "CustomControlsLib\\PhoneMaskTextBox.xaml",
+              "ToolTip": "C:\\Users\\Deo\\source\\repos\\PAC2XeviSa\u00F1\u00E9BielAymerich\\CustomControlsLib\\CustomControlsLib\\PhoneMaskTextBox.xaml",
+              "RelativeToolTip": "CustomControlsLib\\PhoneMaskTextBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T12:50:01.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TextBoxSimple.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Deo\\source\\repos\\PAC2XeviSa\u00F1\u00E9BielAymerich\\CustomControlsLib\\CustomControlsLib\\TextBoxSimple.xaml.cs",
+              "RelativeDocumentMoniker": "CustomControlsLib\\TextBoxSimple.xaml.cs",
+              "ToolTip": "C:\\Users\\Deo\\source\\repos\\PAC2XeviSa\u00F1\u00E9BielAymerich\\CustomControlsLib\\CustomControlsLib\\TextBoxSimple.xaml.cs",
+              "RelativeToolTip": "CustomControlsLib\\TextBoxSimple.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:16:08.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TextBoxSimple.xaml",
+              "DocumentMoniker": "C:\\Users\\Deo\\source\\repos\\PAC2XeviSa\u00F1\u00E9BielAymerich\\CustomControlsLib\\CustomControlsLib\\TextBoxSimple.xaml",
+              "RelativeDocumentMoniker": "CustomControlsLib\\TextBoxSimple.xaml",
+              "ToolTip": "C:\\Users\\Deo\\source\\repos\\PAC2XeviSa\u00F1\u00E9BielAymerich\\CustomControlsLib\\CustomControlsLib\\TextBoxSimple.xaml",
+              "RelativeToolTip": "CustomControlsLib\\TextBoxSimple.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T12:16:06.48Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
